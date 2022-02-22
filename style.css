@@ -1,0 +1,594 @@
+
+body{
+    background-color: 	#dfe3ee;
+}
+body{
+    background-color: 	#dfe3ee;
+    
+    
+}
+@media screen and (max-width:6500px) {
+    
+    #hea{
+        position:absolute;
+        left:700px;
+        white-space: nowrap;
+    }
+    #hea1{
+        position: absolute;
+        left:700px;
+        white-space: nowrap;
+    }
+}
+@media screen and (max-width:1600px) {
+  
+    #hea{
+        position:absolute;
+        left:700px;
+        white-space: nowrap;
+    }
+    #hea1{
+        position: absolute;
+        left:700px;
+        white-space: nowrap;
+    }
+    
+}
+
+
+
+@media  screen and (max-width:1200px) {
+
+    
+    #hea{
+    
+        position: relative;
+        right: 0px;
+        text-align: center;
+    }
+    #paraleft{
+        position:relative;
+        top: 100px;
+        left: 20px;
+       
+    }
+    .box{
+        position: relative;
+        top: -150px;
+        right: 70px;
+    }
+    #image{
+        position: absolute;
+        top: 200px;
+        left: 60px;
+    }
+    #hea{
+        position:absolute;
+        left: 750px;
+        white-space: nowrap;
+    }
+    #hea1{
+        position: absolute;
+        left: 750px;
+        white-space: nowrap;
+    }
+    .mail #pass{
+       position: absolute;
+       left:765px;
+    }
+    .mail #pa{
+        position: absolute;
+        width: 145px;
+        left: 790px;
+        top:49px;
+        
+    }
+    .mail #forgot{
+        position: absolute;
+        left: 790px;
+    }
+    .mail #logg{
+        position: absolute;
+        left: 950px;
+    
+    }
+    .mail #ma{
+        position: absolute;
+        left: 620px;
+        white-space: nowrap;
+    }
+    .mail #te{
+        position: relative;
+        width: 145px;
+        left: 622px;
+        top:-99px;
+        
+    }
+    .mail #check{
+        position: absolute;
+        left: 580px;
+        
+    }
+    .mail #keep{
+        position: relative;
+        top:-100px;
+        left:640px;
+        
+    }
+
+    
+    
+    #image{
+        position: relative;
+    }
+    
+}
+@media screen and (max-width:992px) {
+  
+    #image{
+        display: none;
+    }
+ 
+    .box{
+        position:relative;
+        right: 350px;
+    }
+    #paraleft{
+        display: none;
+    }
+    .mail #te{
+        position: relative;
+        width:140px;
+        left: 360px;
+    }
+    .mail #ma{
+        left:368px;
+      
+    }
+    .mail #keep{
+        left: 374px;
+    }
+    .mail #pa{
+        position: relative;
+        width: 140px;
+        top: -167px;
+        left: 525px;
+    }
+    .mail #forgot{
+        left: 535px;
+    }
+    .mail #pass{
+        position:relative;
+        top: -157px;
+        left: 515px;
+    }
+    #li1{
+        white-space: nowrap;
+    }
+    #para1{
+        white-space: nowrap;
+    }
+    .mail #check{
+        left: 325px;
+    }
+    .mail #logg{
+        left: 700px;
+    }
+    
+}
+@media screen and (max-width:768px) {
+  
+    #fb_logo{
+        display: none;
+    }
+    #hea{
+        position:absolute;
+        left: 750px;
+        white-space: nowrap;
+    }
+    .box{
+        position:relative;
+        right: 550px;
+    }
+   
+    
+    .mail #te{
+        left: 150px;
+    }
+    .mail #ma{
+        left: 158px;
+    }
+    .mail #check{
+        left: 128px;
+    }
+    .mail #keep{
+        left:164px;
+    }
+    .mail #pass{
+        left: 320px;
+
+    }
+    .mail #pa{
+        left: 320px;
+
+    }
+    .mail #forgot{
+        left: 330px;
+    }
+    .mail #logg{
+        left: 500px;
+    }
+  
+}
+    
+
+
+@media screen and (max-width:576px) {
+  
+    .box{
+        top:-200px;
+        left:-600px;
+    }
+    .mail #ma{
+        left: 110px;
+    }
+    .mail #te{
+        position: relative;
+        width:140px;
+        left: 100px;
+    }
+    .mail #check{
+        left: 85px;
+    }
+    .mail #keep{
+        left:115px;
+    }
+    .mail #pass{
+        left: 265px;
+
+    }
+    .mail #pa{
+        left: 265px;
+
+    }
+    .mail #forgot{
+        left: 274px;
+    }
+    .mail #logg{
+        left: 435px;
+    }
+}
+
+
+#logo{
+
+    width:100%;
+    font-size:50px;
+    font-weight: 900;
+    color:white;
+    background-color: #4267B2;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-top:0px;
+    padding-top:60px;
+    position: absolute;
+    bottom:8px;
+    right:10px;
+    
+}
+#ma,#te,#check,#pass,#pa,#forgot,#log {
+
+    text-align:center;
+    margin-top: 0px;
+    background-color:#4267B2;
+    color: white;
+    width:10%;
+    position:absolute;
+   top:10px;
+   right:40%;
+}
+#logo{
+    position:relative;
+    width:100%;
+    height: 20px;
+}
+#ma{
+    background-color: transparent;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: absolute;
+    top:30px;
+    left: 665px;
+}
+#te{
+    
+    
+    position:absolute;
+   top:50px;
+   left:700px;
+   background-color:white;
+}
+
+input{
+    width:95%;
+    position: absolute;
+    left: 15px;
+}
+#check{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    left:625px ;
+    top: 75px;
+}
+#keep{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: white;
+    left:720px ;
+    top: 74px;
+}
+
+#pass{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+    position: absolute;
+    left:830px;
+    top:31px;
+    background:transparent;
+}
+#pa{
+    position: absolute;
+    left:880px;
+    top:50px;
+    background-color: white;
+}
+#che{
+    position: absolute;
+    left: 108px;
+    top:70px
+}
+
+#forgot{
+    background:transparent;
+    position: absolute;
+    top:74px;
+    left: 867px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    white-space: nowrap;
+    color: white;
+    text-decoration: none;
+}
+#logg{
+    background-color: blue;
+    position: absolute;
+    left: 1070px;
+    top:50px;
+    width: 55px;
+    height: 20px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+#fb_logo{
+    position:absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: white;
+    top:20px;
+    left:150px;
+    font-weight: bold;
+}
+#paraleft{
+    font-family:Arial, Helvetica, sans-serif;
+   color: rgb(22, 22, 75);
+   font-size: 29px;
+   position: absolute;
+   left: 60px;
+  
+}
+
+img{
+    position: absolute;
+    top:290px;
+    left: 70px;
+    width: 550px;
+    
+}
+#hea{
+    position: absolute;
+    right: 760px;
+    top:90px;
+    font-size: 47px;
+}
+#hea1{
+    position: absolute;
+    right:700px;
+    top:160px;
+    font-size:20px;
+}
+#fname{
+    width:160px;
+    height:30px;
+    position: absolute;
+    top:215px;
+    left:700px;
+    border-radius: 5px;
+    background-color: white;
+    border-color: white;
+    border-style:groove;
+    
+}
+#lname{
+    width:160px;
+    height:30px;
+    position: absolute;
+    top:215px;
+    left:880px;
+    border-radius: 5px;
+    background-color: white;
+    border-color: white;
+    border-style: groove;
+
+}
+#uemil{
+    width:340px;
+    height:30px;
+    position: absolute;
+    top:260px;
+    left:700px;
+    border-radius: 5px;
+    background-color: white;
+    border-color: white;
+    border-style: groove;
+
+}
+#ruemil{
+    width:340px;
+    height:30px;
+    position: absolute;
+    top:305px;
+    left:700px;
+    border-radius: 5px;
+    background-color: white;
+    border-color: white;
+    border-style: groove;
+
+}
+#newpass{
+    width:340px;
+    height:30px;
+    position: absolute;
+    top:350px;
+    left:700px;
+    border-radius: 5px;
+    background-color: white;
+    border-color: white;
+    border-style: groove;
+
+}
+#birth{
+    background:transparent;
+    color: black;
+    position: absolute;
+    left: 700px;
+    top:380px;
+}
+
+
+#month{
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    left:700px;
+    top:420px;
+}
+#day{
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    left:780px;
+    top:420px;
+}
+#year{
+    height: 30px;
+    background-color: white;
+    position: absolute;
+    left:828px;
+    top:420px;
+}
+#li1{
+    background:transparent;
+    font-size:small;
+    position: absolute;
+    left:884px;
+    top:420px;
+    text-decoration: none;
+}
+#fem{
+    width: 20px;
+    position: absolute;
+    left:695px;
+    top:460px;
+    background:transparent;
+}
+#f1{
+    position: absolute;
+    left:718px;
+    top:460px;
+    font-size: medium;
+    background:transparent;
+}
+#mal{
+    width: 20px;
+    position: absolute;
+    left:765px;
+    top:460px;
+    background:transparent;
+}
+#f2{
+    position: absolute;
+    left:790px;
+    top:460px;
+    font-size: medium;
+    background:transparent;
+}
+.bipara{
+    position: absolute;
+    left:700px;
+    top:469px;
+    font-size:x-small;
+    background:transparent;
+}
+#but{
+    background-color:green;
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+    width: 160px;
+    height: 45px;
+    border-radius: 5px;
+    border-style:solid;
+}
+.bipara #dott{
+    width: 355px;
+    background-color:gray;
+    height: 1px;
+    right: -10px;
+    position: absolute;
+    top: 105px;
+}
+.bipara #cele{
+    background:transparent;
+    position: absolute;
+    top: 110px;
+    font-size:small;
+    text-decoration: none;
+}
+#li4{
+    text-decoration: none;
+}
+#pa1{
+    text-decoration: none;
+}
+#pa2{
+    text-decoration: none;
+}
+#pa3{
+    text-decoration: none;
+}
+#para1{
+    font-size: small;
+}
+#but:hover{
+    cursor: pointer;
+
+}
+#but:active{
+    background-color:rgb(0, 99, 0) ;
+}
+
